@@ -1,4 +1,4 @@
-## Opa, bem vindo aoo perfil do Rob!
+## Opa, seja bem-vindo ao meu perfil!
 
 <div>
   
