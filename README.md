@@ -1,4 +1,6 @@
-## Opa, seja bem-vindo ao meu perfil!
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Sou+o+Robson!;" />
+</h1>
 
 <div>
   
@@ -35,5 +37,3 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/Robdsjr007/Robdsjr007/blob/master/github-contribution-grid-snake.svg)
