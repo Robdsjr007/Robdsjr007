@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!;+Sou+o+Robson!;+Tenho+18+anos;+Seja+bem-vindo!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!;+I'm+Robson!;+I've+18+years+old;+Welcome+to+my+profile<3" />
 </h1>
 
 
@@ -26,7 +26,7 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <br>
   <br>
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social Media</h1>
     <a href = "robson2005dias@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
