@@ -3,9 +3,10 @@
 </h1>
 
 
-<div>
-  <img width="39%" height="150em" src="https://github-readme-stats.vercel.app/api?username=Robdsjr007&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="30%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robdsjr007&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div align="center">
+  <img width="37%" height="150em" src="https://github-readme-stats.vercel.app/api?username=Robdsjr007&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="20%" height="150em" src="work-cat.gif"/>
+  <img width="20%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robdsjr007&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   <br>
   <div align="center">
