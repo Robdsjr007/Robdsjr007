@@ -4,10 +4,22 @@
 
 
 <div align="center">
-  <img width="37%" height="150em" src="https://github-readme-stats.vercel.app/api?username=Robdsjr007&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="20%" height="130em" src="work-cat.gif"/>
-  <img width="20%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robdsjr007&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img width="120px" height="120px" src="work-cat.gif"/>
 </div>
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=robdsjr007&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
   <br>
   <div align="center">
     <h1 align="center">Best Technologies <3</h1>
